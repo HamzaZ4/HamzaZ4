@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Hamza!
 
 🎓 **Engineering student at McGill University**  
-💻 **Aspiring Full-Stack Developer & Problem Solver**
+💻 **Aspiring ComputerPerson Problem Solver**
 
 ### About Me
 I'm an engineering student passionate about building efficient, practical solutions through code. I’m constantly learning and adapting, with a focus on modern web technologies and solving real-world problems through software.
