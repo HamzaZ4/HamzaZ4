@@ -7,7 +7,7 @@
 I'm an engineering student passionate about building efficient, practical solutions through code. I’m constantly learning and adapting, with a focus on modern web technologies and solving real-world problems through software.
 
 ### What I'm Currently Learning
-- **MERN Stack**: Diving deep into full-stack development with MongoDB, Express, React, and Node.js. Trying to reinforce skills in MEN, and learning the R from 0.
+- **MERN Stack**: Diving deep into full-stack development with MongoDB, Express, React, and Node.js. Trying to reinforce skills in M,E and N, and learning the R from 0.
 - **A Bit of Machine Learning**: Taking introductory course to Machine Learning to learn theory about the subject as well as experiment with libraries like pytorch and pandas.
 - **Async Programming**: Mastering Promises and async/await to improve web app performance.
 
