@@ -7,7 +7,6 @@
 ## 🗿 Work
 - **RBC Capital Markets (2025)** — Software Engineer Intern  
 - **Leap Event Tech (2025)** — Built event platform tech used by **NFL, NBA, Disney & MORE**  
-- **Previous Internship** — Migrated cloud jobs → Kubernetes, automated pipelines, improved infra  
 
 ---
 
