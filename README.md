@@ -11,7 +11,7 @@
 ---
 
 ## Current Projects
-- **Applicate** ([Link](https://github.com/orgs/ApplicateDev/teams)) — a platform helping CS students stay motivated + organized in their job hunt  
+- **Applicate** ([Link](https://github.com/ApplicateDev)) — a platform helping CS students stay motivated + organized in their job hunt  
   → Tracks job applications, LeetCode streaks, GitHub activity, and progress with leaderboards & reports  
 - **NBA Predictor** — using team + player stats to forecast game outcomes
 - **Erlang/Elixir** - Learning about Elixir
